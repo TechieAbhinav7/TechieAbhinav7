@@ -19,7 +19,7 @@ Markets and investing fascinated me years before I even began programming. As I 
 
 **Databases:** MySQL, PostgreSQL, MongoDB, Spark SQL
 
-**Libraries:**  PySpark,NumPy, Pandas, Seaborn, Matplotlib, Scikit-learn, XGBoost, Plotly, yfinance
+**Libraries:**  PySpark,NumPy, Pandas, Seaborn, Matplotlib, Scikit-learn, XGBoost, Plotly, yfinance, Polars
 
 **Tools:** Git, Linux, Power BI, Excel
 
